@@ -1,0 +1,10 @@
+name: fair_intro_env
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - matplotlib
+  - numpy
+  - pip:
+    - fair==1.6.1
+prefix: /opt/anaconda3/envs/fair_intro_env
