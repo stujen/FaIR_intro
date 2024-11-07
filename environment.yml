@@ -8,6 +8,6 @@ dependencies:
   - pandas
   - scipy
   - pip:
-    -tqdm
-  #   - fair==1.6.1
+    - tqdm
+    # - fair==1.6.1
 prefix: /opt/anaconda3/envs/fair_intro_env
