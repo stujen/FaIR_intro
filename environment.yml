@@ -6,6 +6,7 @@ dependencies:
   - matplotlib
   - numpy
   - pandas
+  - scipy
   # - pip:
   #   - fair==1.6.1
 prefix: /opt/anaconda3/envs/fair_intro_env
