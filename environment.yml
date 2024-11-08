@@ -2,8 +2,8 @@ name: fair_intro_env
 channels:
   - defaults
 dependencies:
+  - python=3.7
   - pip:
-    - python==3.10
     - matplotlib
     - numpy
     - pandas
