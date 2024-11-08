@@ -2,10 +2,11 @@ name: fair_intro_env
 channels:
   - defaults
 dependencies:
-  - python
-  - matplotlib
-  - numpy
-  - pandas
-  - scipy
-  - tqdm
+  - pip:
+    - python=3.10
+    - matplotlib
+    - numpy
+    - pandas
+    - scipy
+    - tqdm
 prefix: /opt/anaconda3/envs/fair_intro_env
