@@ -9,4 +9,5 @@ dependencies:
     - pandas
     - scipy
     - tqdm
+    - numexpr
 prefix: /opt/anaconda3/envs/fair_intro_env
